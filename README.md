@@ -5,7 +5,7 @@ http://blog.csdn.net/hrobbie/article/details/54564513 如何录制视频
     考试预约 和 训练预约，功能一致，所以只编码考试预约就行
     个人资料部分也可以编码一下
 
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/Summer-Lin/driving-booking/blob/master/images/driving-school.gif)
 
 
 ## 项目技术
