@@ -9,9 +9,9 @@ http://blog.csdn.net/hrobbie/article/details/54564513 如何录制视频
 
 
 ## 项目技术
-    vue + vuex + VueResource +  VueRouter +  mock.js
+    vue + vuex + VueResource +  VueRouter +  mock.js +  mint-ui
     
-    VueRouter  //没有搭服务器数据库，也只是用mock.js搭个假数据，也只请求一个地方
+    VueRouter  //没有搭服务器数据库，也只是用mock.js搭个假数据，也只请求一个地方
     
 ## vue入门项目
     这个项目属于入门级项目，webpack.config.js是自己写的，没有用vue-cli
