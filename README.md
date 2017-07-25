@@ -1,4 +1,3 @@
-http://blog.csdn.net/hrobbie/article/details/54564513 如何录制视频
 
 ## 项目动态图
     驾校考试预约项目
